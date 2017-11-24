@@ -1,1 +1,2 @@
-# php_thumb_image
+php工具类收集
+1.图片缩略类
